@@ -1,0 +1,10 @@
+/usr/bin/ld: CMakeFiles/imu_reader.dir/src/imu_reader.cpp.o: in function `read_word_2c(int, int)':
+imu_reader.cpp:(.text+0x38): undefined reference to `wiringPiI2CReadReg8'
+/usr/bin/ld: imu_reader.cpp:(.text+0x50): undefined reference to `wiringPiI2CReadReg8'
+/usr/bin/ld: CMakeFiles/imu_reader.dir/src/imu_reader.cpp.o: in function `main':
+imu_reader.cpp:(.text+0xcc): undefined reference to `wiringPiI2CSetup'
+/usr/bin/ld: imu_reader.cpp:(.text+0x100): undefined reference to `wiringPiI2CWriteReg16'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/imu_reader.dir/build.make:101: /home/ubuntu/Documents/diff_drive_tut/devel/.private/imu_reader/lib/imu_reader/imu_reader] Error 1
+make[1]: *** [CMakeFiles/Makefile2:155: CMakeFiles/imu_reader.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

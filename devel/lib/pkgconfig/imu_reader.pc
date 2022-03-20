@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Documents/diff_drive_tut/devel
+
+Name: imu_reader
+Description: Description of imu_reader
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

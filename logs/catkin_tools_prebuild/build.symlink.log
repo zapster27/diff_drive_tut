@@ -1,0 +1,12 @@
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./local_setup.zsh
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./local_setup.bash
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./cmake.lock
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./setup.sh
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./env.sh
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./setup.zsh
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./setup.bash
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./local_setup.sh
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/./_setup_util.py
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ubuntu/Documents/diff_drive_tut/devel/lib/pkgconfig/catkin_tools_prebuild.pc

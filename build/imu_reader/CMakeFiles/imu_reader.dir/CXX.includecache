@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Documents/diff_drive_tut/src/imu_reader/src/imu_reader.cpp
+linux/i2c-dev.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+stdint.h
+-
+
